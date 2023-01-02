@@ -3,7 +3,7 @@
 //covered in the previous course, including classes, loops, arrays, arrays of objects, static attributes and static methods.
 
 //Part 1: Implement the Book class
-package Assignment1;
+package Assignment1_2018;
 
 public class Book
 {
