@@ -3,7 +3,7 @@ import package1.*;
 public class Festival extends Event {
     protected int year;       					
 	protected int month;				
-	protected int numberOfCities;	
+	protected int numOfCities;	
     protected String name;
     protected double price;
     protected int duration;
